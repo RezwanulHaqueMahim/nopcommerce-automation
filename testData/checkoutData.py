@@ -1,0 +1,5 @@
+country = "Bangladesh"
+city = "Dhaka"
+Address1 = "Banasree,Goran, Dhaka"
+pos_code = "1219"
+phn_num = "01851547855"
